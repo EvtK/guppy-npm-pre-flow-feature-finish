@@ -1,6 +1,6 @@
 {
   "name": "guppy-pre-flow-feature-finish",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Installs a pre-flow-feature-finish git-hook only, for guppy packages",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/EvtK/guppy-pre-flow-feature-finish",
   "dependencies": {
-    "git-guppy": "git+https://git@github.com/EvtK/git-guppy"
+    "guppy-cli": "git+https://github.com/EvtK/guppy-cli"
   }
 }
