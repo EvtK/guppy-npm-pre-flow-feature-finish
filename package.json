@@ -1,6 +1,6 @@
 {
   "name": "guppy-pre-flow-feature-finish",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Installs a pre-flow-feature-finish git-hook only, for guppy packages",
   "main": "index.js",
   "scripts": {
