@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/EvtK/guppy-pre-flow-feature-finish",
   "dependencies": {
-    "@EvtK/git-guppy": "^1.0.1"
+    "git-guppy": "git+https://git@github.com/EvtK/git-guppy"
   }
 }
